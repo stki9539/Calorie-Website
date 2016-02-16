@@ -52,5 +52,5 @@ for version control.
 
 **Project Plan:**
 
-![Trello Tracker](https://cloud.githubusercontent.com/assets/13977747/13068059/98e86c04-d434-11e5-9743-d5f573e0043e.png)
+![Trello Tracker](https://cloud.githubusercontent.com/assets/13977747/13068345/bdfde886-d437-11e5-88db-1d242bca4df8.png)
 
