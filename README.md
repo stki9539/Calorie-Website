@@ -16,13 +16,13 @@ To provide knowledge with a click of a button.
 **Motivation:**
 To provide user with an easier way to keep track of calories consumed throughout the day.
 Helpful for user who just want to maintain or get to that healthy weight. Also perfect for 
-athlete's who need to consume fix amount of calories daily to maintain their physique.
+athletes who need to consume fix amount of calories daily to maintain their physique.
 
 **Risks:**
 No experience with database or website design. All members are beginners and
 learning for the first time. All members are willing to take the extra time and effort to
-learn needed skill to help design a website that we would be proud to present. Members are
-willing to research or read materials that are widely available. Team will be using github 
+learn needed skill to help design a website that they would be proud of. Members are
+willing to research or read materials that are widely available to make this project possible. Team will be using github 
 for version control.
 
 **List of requirements:**
@@ -44,10 +44,10 @@ for version control.
 **NFR3.** As administrators our webiste should give the users result of tracker immediately. 
 
 **Methodology:**
-Agile
+*Agile*
 
 **Project Tracking software:**
-Trello - https://trello.com/calorietracker2
+*Trello* - https://trello.com/calorietracker2
 
 
 
