@@ -27,7 +27,7 @@ for version control.
 
 **List of requirements:**
 
-User Requirements- 
+User Requirements-    
   UR1. As a user I want a predefined database with popular food that I can just select from the available
      option without having to manually enter them.
   UR2. As a user I want a history of previous food consumed.
