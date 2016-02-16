@@ -40,8 +40,8 @@ FR3. As developers we want to have a database of popular food that our user can 
 
 Non-Functional Requirements-
 NFR1. As administrators our website should be accessible anywhere with an internet or wifi connnection.
-NFR2. User input should be quick and efficient.
-NFR3. User should get result of tracker immediately. 
+NFR2. As administrators our website should calculate user input quickly and efficiently.
+NFR3. As administatos our website should allow User to get result of tracker immediately. 
 
 **Methodology:**
 Agile
