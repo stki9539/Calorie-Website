@@ -38,15 +38,15 @@ FR1. As developers we want a website that can keep track of calories count for o
 FR2. As developers we want an easy way for our user to input the food they have consumed.
 FR3. As developers we want to have a database of popular food that our user can select.
 
-Non-Functional Requirements -
+**Non-Functional Requirements -**
 NFR1. Website should be accessible anywhere with an internet or wifi connnection.
 NFR2. User input should be quick and efficient.
 NFR3. User should get result of tracker immediately. 
 
-Methodology:
+**Methodology:**
 Agile
 
-Project Tracking software:
+**Project Tracking software:**
 Trello- https://trello.com/calorietracker2
 
 
