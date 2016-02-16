@@ -1,4 +1,4 @@
-# Calorie-Website
+# Cal-Counter
 A website that will track the calories of different foods that you consume. 
 
 **Team Member:**
