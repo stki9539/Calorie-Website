@@ -40,8 +40,8 @@ for version control.
 
 *Non-Functional Requirements*-  
 **NFR1.** As administrators our website should be accessible anywhere with an internet or wifi connnection.  
-**NFR2.** As administrators our website should User input should be quick and efficient.  
-**NFR3.** As administrators our webiste should give our user result of tracker immediately. 
+**NFR2.** As administrators our website should be quick and efficient.  
+**NFR3.** As administrators our webiste should give the users result of tracker immediately. 
 
 **Methodology:**
 Agile
