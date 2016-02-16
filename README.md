@@ -3,8 +3,8 @@ A website that will track the calories of different foods that you consume.
 
 **Team Member:**
 James Huynh,
-Sibo Song,
 Steven Kim,
+Sibo Song,
 Tianfang Wang
 
 **Description:** 
