@@ -27,18 +27,18 @@ for version control.
 
 **List of requirements:**
 
-*User Requirements-*    
+*User Requirements*-    
   **UR1.** As a user I want a predefined database with popular food that I can just select from the available
      option without having to manually enter them.  
   **UR2.** As a user I want a history of previous food consumed.    
   **UR3.** As a user I want a clean and nice website that is easy to navigate and has a helpful guide.  
 
-*Functional Requirements-*  
+*Functional Requirements*-  
 **FR1.** As developers we want a website that can keep track of calories count for our user.  
 **FR2.** As developers we want an easy way for our user to input the food they have consumed.  
 **FR3.** As developers we want to have a database of popular food that our user can select.
 
-*Non-Functional Requirements-*  
+*Non-Functional Requirements*-  
 **NFR1.** As administrators our website should be accessible anywhere with an internet or wifi connnection.  
 **NFR2.** As administrators our website should User input should be quick and efficient.  
 **NFR3.** As administrators our webiste should give our user result of tracker immediately. 
@@ -47,7 +47,7 @@ for version control.
 Agile
 
 **Project Tracking software:**
-Trello- https://trello.com/calorietracker2
+Trello - https://trello.com/calorietracker2
 
 
 
