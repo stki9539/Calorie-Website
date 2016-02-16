@@ -39,7 +39,7 @@ Functional Requirements-
 **FR3.** As developers we want to have a database of popular food that our user can select.
 
 Non-Functional Requirements-  
-**NFR1.** As administrators our website should be accessible anywhere with an internet or wifi connnection.
+**NFR1.** As administrators our website should be accessible anywhere with an internet or wifi connnection.  
 **NFR2.** User input should be quick and efficient.  
 **NFR3.** User should get result of tracker immediately. 
 
