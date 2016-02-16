@@ -29,7 +29,7 @@ for version control.
 
 *User Requirements*-    
   **UR1.** As a user I want a predefined database with popular food that I can just select from the available
-     option without having to manually enter them.  
+           option without having to manually enter them.  
   **UR2.** As a user I want a history of previous food consumed.    
   **UR3.** As a user I want a clean and nice website that is easy to navigate and has a helpful guide.  
 
