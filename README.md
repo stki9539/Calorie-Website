@@ -20,7 +20,10 @@ athletes who need to consume fix amount of calories daily to maintain their phys
 
 **Risks:**
 No experience with database or website design. All members are beginners and
-learning for the first time. All members are willing to take the extra time and effort to
+learning database and web design for the first time. 
+
+**Mitigation Strategy:**
+All members are willing to take the extra time and effort to
 learn needed skill to help design a website that they would be proud of. Members are
 willing to research or read materials that are widely available to make this project possible. Team will be using github 
 for version control.
@@ -31,7 +34,7 @@ for version control.
   **UR1.** As a user I want a predefined database with popular food that I can just select from the available
            option without having to manually enter them.  
   **UR2.** As a user I want a history of previous food consumed.    
-  **UR3.** As a user I want a clean and nice website that is easy to navigate and has a helpful guide.  
+  **UR3.** As a user I want a clean and nice website that is easy to navigate and has some form of guide on how to use it.  
 
 *Functional Requirements(Sizing 4, Time Estimate 8 hrs)*:  
 **FR1.** As developers we want a website that can keep track of calories count for our user.  
