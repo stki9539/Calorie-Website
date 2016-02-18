@@ -14,8 +14,8 @@ A website that helps users keep track of the calories they have consumed.
 To provide knowledge with a click of a button.
 
 **Motivation:**
-To provide user with an easier way to keep track of calories consumed throughout the day.
-Helpful for user who just want to maintain or get to that healthy weight. Also perfect for 
+To provide users with an easier way to keep track of calories consumed throughout the day.
+Helpful for users who just want to maintain or get to that healthy weight. Also perfect for 
 athletes who need to consume fix amount of calories daily to maintain their physique.
 
 **Risks:**
