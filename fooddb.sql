@@ -61,7 +61,7 @@ create table if not exists `vegetables` (
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
-insert into `fruits` (`id`, `name`, `100g`, `vegetables`) values 
+insert into `vegetables` (`id`, `name`, `100g`, `calories`) values 
   (1, 'broccoli', 1, 34),
   (2, 'kale', 1, 49),
   (3, 'spinach', 1, 23),
