@@ -48,7 +48,7 @@ insert into `fruits` (`id`, `name`, `100g`, `calories`) values
   (2, 'banana', 1, 80),
   (3, 'cherry', 1, 50),
   (4, 'grape', 1, 67),
-  (5, 'mango', 1, 60),
+  (5, 'orange', 1, 45),
   (6, 'peach', 1, 39),
   (7, 'watermelon', 1, 30),
   (8, 'apple' , 1, 52);
