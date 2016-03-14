@@ -29,7 +29,7 @@ insert into `grains` (`id`, `name`, `100g`, `calories`) values
   (1, 'rice', 1, 130),
   (2, 'corn', 1, 365),
   (3, 'oat', 1, 389),
-  (4, 'farina', 1, 369),
+  (4, 'brown rice', 1, 166),
   (5, 'wheat', 1, 339),
   (6, 'flake', 1, 369),
   (7, 'cereal', 1, 333),
