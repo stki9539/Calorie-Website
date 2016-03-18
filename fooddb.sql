@@ -81,8 +81,8 @@ insert into `vegetables` (`id`, `name`, `100g`, `calories`) values
 
 insert into `sweets` (`id`, `name`, `100g`, `calories`) values 
   (1, 'chocolate chips cookie', 1, 488),
-  (2, 'glaze donuts', 1, 260),
-  (3, 'chocolate donuts', 1, 195),
+  (2, 'glaze donut', 1, 260),
+  (3, 'chocolate donut', 1, 195),
   (4, 'chocolate cake', 1, 371),
   (5, 'vanilla ice cream', 1, 207),
   (6, 'chocolate ice cream', 1, 216),
