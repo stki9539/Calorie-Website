@@ -71,7 +71,7 @@ insert into `vegetables` (`id`, `name`, `100g`, `calories`) values
   (7, 'eggplant', 1, 25),
   (8, 'lettuce' , 1, 15);
   
-  create table if not exists `dairies` (
+  create table if not exists `sweets` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
   `qty` int(1) not null,
@@ -79,13 +79,21 @@ insert into `vegetables` (`id`, `name`, `100g`, `calories`) values
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
-insert into `dairies` (`id`, `name`, `100g`, `calories`) values 
-  (1, 'cheddar cheese', 1, 403),
-  (2, 'cottage cheese', 1, 98),
-  (3, 'milk 2%', 1, 50),
-  (4, 'yogurt', 1, 59),
-  (5, 'sour cream', 1, 193),
-  (6, 'chocolate milk', 1, 530),
-  (7, 'eggs', 1, 155),
-  (8, 'soy milk' , 1, 54);
+insert into `sweets` (`id`, `name`, `100g`, `calories`) values 
+  (1, 'chocolate chips cookie', 1, 488),
+  (2, 'glaze donuts', 1, 260),
+  (3, 'chocolate donuts', 1, 195),
+  (4, 'chocolate cake', 1, 371),
+  (5, 'vanilla ice cream', 1, 207),
+  (6, 'chocolate ice cream', 1, 216),
+  (7, 'cheesecake', 1, 321),
+  (8, 'sugar cookie' , 1, 436);
+  
+    create table if not exists `dairies` (
+  `id` int(1) not null auto_increment,
+  `name` varchar(40) not null,
+  `qty` int(1) not null,
+  `price` float not null,
+  primary key (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
