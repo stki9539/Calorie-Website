@@ -97,3 +97,28 @@ insert into `sweets` (`id`, `name`, `100g`, `calories`) values
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
+  create table if not exists `fats & oils` (
+  `id` int(1) not null auto_increment,
+  `name` varchar(40) not null,
+  `qty` int(1) not null,
+  `price` float not null,
+  primary key (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
+
+insert into `fats & oils` (`id`, `name`, `1 tbsp`, `calories`) values 
+  (1, 'butter', 1, 102),
+  (2, 'canola oil', 1, 124),
+  (3, 'coconut oil', 1, 117),
+  (4, 'lard', 1, 115),
+  (5, 'margarine', 1, 34),
+  (6, 'palm oil', 1, 120),
+  (7, 'olive oil', 1, 119),
+  (8, 'vegetable oil' , 1, 124);
+  
+    create table if not exists `dairies` (
+  `id` int(1) not null auto_increment,
+  `name` varchar(40) not null,
+  `qty` int(1) not null,
+  `price` float not null,
+  primary key (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
