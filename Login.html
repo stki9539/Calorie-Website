@@ -5,8 +5,20 @@
  </head>
  
 <body bgcolor="#FFFFFF">
- 
-<DIV style="position: absolute; top:250px; left: 641px; width:734px; height:559px">
+ <script language="JavaScript">
+ function login()
+ {
+   self.opener.mainform.userName.value = document.loginform.userN.value;
+   self.opener.mainform.passWord.value = document.loginform.userP.value;
+   
+   window.close();
+ }
+ function cancel()
+ {
+    window.close();
+ }
+ </script>
+ <form name="loginform" >
  <p>Username : 
  <input type="text" name="userN" size="25" value="Username" onFocus="this.select()">
  </p>
@@ -15,9 +27,8 @@
  </p>
  <p> 
 <input type="button" name="select" value="Login" onclick=login()>
-<a href="Cal-Counter2.htm"  STYLE="text-decoration: none"><button>Cancel</button></a>
-</p>
+<input type="button" name="select" value="Cancel" onclick=cancel()>
+ </p>
  </form>
- </DIV>
  </body>
  </html>
