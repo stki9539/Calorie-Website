@@ -10,7 +10,7 @@ Cal-Counter
 To provide knowledge with a click of a button.
 
 **Automated Tests:**
-Ghostinspector -  [Ghostinspector.com](Ghostinspector.com)  
+Ghostinspector -  www.Ghostinspector.com  
 Hi  
 
 *Output Result:*
