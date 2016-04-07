@@ -11,7 +11,8 @@ To provide knowledge with a click of a button.
 
 **Automated Tests:**
 Ghostinspector -  www.Ghostinspector.com  
-Hi  
+Automated website testing. Testing to see if all tabs button are functional. Functional in   
+that they are clickable and open the correct webpages.
 
 *Output Result:*
 
