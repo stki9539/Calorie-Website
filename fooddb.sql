@@ -2,8 +2,8 @@
 create table if not exists `protein` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `100g` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -20,8 +20,8 @@ insert into `protein` (`id`, `name`, `100g`, `calories`) values
 create table if not exists `grains` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `100g` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -38,8 +38,8 @@ insert into `grains` (`id`, `name`, `100g`, `calories`) values
 create table if not exists `fruits` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `100g` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -56,8 +56,8 @@ insert into `fruits` (`id`, `name`, `100g`, `calories`) values
 create table if not exists `vegetables` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `100g` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -74,8 +74,8 @@ insert into `vegetables` (`id`, `name`, `100g`, `calories`) values
   create table if not exists `sweets` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `100g` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -92,8 +92,8 @@ insert into `sweets` (`id`, `name`, `100g`, `calories`) values
   create table if not exists `dairies` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `1 cup` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
@@ -110,8 +110,8 @@ insert into `dairies` (`id`, `name`, `1 cup`, `calories`) values
   create table if not exists `fats & oils` (
   `id` int(1) not null auto_increment,
   `name` varchar(40) not null,
-  `qty` int(1) not null,
-  `price` float not null,
+  `1 tbsp` int(1) not null,
+  `calories` float not null,
   primary key (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=7;
 
