@@ -25,11 +25,11 @@
 
     <body>
 
-        You are logged out.<br />
+       <p align= center>You are logged out.<br />
 
     
 
-        <a href="Login.php">Login</a>
+        <a href="Login.php">Login</a></p>
 
     </body>
 
