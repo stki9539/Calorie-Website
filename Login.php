@@ -22,7 +22,7 @@
             $_SESSION['id'] = $userId;
             header('Location: user.php');
         } else {
-            echo "<p align=center>(Incorrect Password) </p> ";
+            echo "<p align=center>(Incorrect Username or Password) </p> ";
         }
     }
 ?>
