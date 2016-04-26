@@ -2,7 +2,7 @@
 **Repo Organization:**  
 This project is organized in 3 Category:    
 - Files that ends in htm or html are the framework of our website.  
-- Files that ends in .php interacts with the user database and our website.
+- Files that ends in .php and sql interacts with the user database and our website.
 - Files that ends in pdf and ppt are our project part submission.  
 - Test.md is our test cases.
 
