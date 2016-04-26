@@ -1,3 +1,13 @@
+
+**Repo Organization:**  
+This project is organized in 3 Category:    
+- Files that ends in htm or html are the framework of our website.  
+- Files that ends in .php interacts with the user database and our website.
+- Files that ends in pdf and ppt are our project part submission.  
+- Test.md is our test cases.
+
+**Deployment:** To deploy our product you will need to first create a folder in whichever directory you use. Then you have to download the apache2 HTTP Server onto your machine. You will need to configure the files so that the root directory is the directory you saved the folder in. You then need to download sudo apt-get install phpmyadmin so that you can connect to the database. You then need to configure apache to link with the phpmyadmin tool. After setting everything up, you need to clone the repository using “git clone https://github.com/stki9539/Calorie-Website.git” into the root directory folder for apache2. Once you clone the repository, open the internet and go to the address localhost/. This will take you to our main page and you will be able to navigate through our website. 
+
 # Cal-Counter
 A website that will track the calories of different foods that you consume. 
 
